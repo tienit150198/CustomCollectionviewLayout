@@ -2,11 +2,16 @@
 
 Example custom CollectionView Layout with alignment left, center, right
 > result of code like here:
-* center
+#### center
+
 ![alt](https://github.com/tienit150198/CustomCollectionviewLayout/blob/main/image/center.png)
-* left
+
+#### left
+
 ![alt](https://github.com/tienit150198/CustomCollectionviewLayout/blob/main/image/left.png)
-* right
+
+#### right
+
 ![alt](https://github.com/tienit150198/CustomCollectionviewLayout/blob/main/image/right.png)
 
 ### Usage
